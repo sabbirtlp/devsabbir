@@ -52,7 +52,7 @@ export default function Contact() {
               <MapPin className="w-6 h-6 text-blue-600 dark:text-blue-400" />
               <div>
                 <h3 className="text-lg font-medium text-gray-900 dark:text-white">Location</h3>
-                <p className="text-gray-600 dark:text-gray-400">San Francisco, CA</p>
+                <p className="text-gray-600 dark:text-gray-400">Tilokpur,Naogaon Sadar, Naogaon</p>
               </div>
             </div>
           </motion.div>
