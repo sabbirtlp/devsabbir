@@ -14,7 +14,7 @@ export default function Hero() {
             className="relative w-32 h-32 mx-auto mb-8"
           >
             <img
-              src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&h=400&fit=crop"
+              src="https://i.ibb.co.com/B2FFthT/sabbir-hossain.png"
               alt="DeVsabbir"
               className="rounded-full shadow-lg"
             />
