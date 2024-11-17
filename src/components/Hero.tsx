@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Twitter } from 'lucide-react';
+import { Github, Linkedin, X } from 'lucide-react';
 
 export default function Hero() {
   return (
@@ -44,9 +44,9 @@ export default function Hero() {
             className="flex justify-center space-x-4"
           >
             {[
-              { Icon: Github, href: 'https://github.com/devsabbir' },
-              { Icon: Linkedin, href: 'https://linkedin.com/in/devsabbir' },
-              { Icon: Twitter, href: 'https://twitter.com/devsabbir' }
+              { Icon: Github, href: 'https://github.com/sabbirtlp/' },
+              { Icon: Linkedin, href: 'https://www.linkedin.com/in/dev-sabbir-hossain/' },
+              { Icon: X, href: 'https://x.com/AbuTalh56999069' }
             ].map(({ Icon, href }, index) => (
               <motion.a
                 key={href}
